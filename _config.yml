@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
-description: A simple and awesome blog theme powered by jekyll.
+title: Aditya Kushwaha
+email: contact.kushwaha@gmail.com
+description: Product Developer - Former Lead Android Developer at Zomato
 url: # the base hostname & protocol for your site
 
 
@@ -33,13 +33,13 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Aditya Kushwaha
   avatar: leonids-logo.png
   job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
-  email:
+  bio: "Product Developer - Former Lead Android Developer at Zomato"
+  email: contact.kushwaha@gmail.com
   disqus-shortname:
-  twitter: #username
+  twitter: kushwaha_aditya
   facebook: #username
   google:
     plus: #username
@@ -48,13 +48,13 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: adityaKushwaha
   gitlab: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
-  skype: #username
+  stackoverflow: 1724697/kushwaha
+  linkedin: adityakushwaha
+  skype: aditya.kushwaha
   xing: #username
-  instagram: #username
+  instagram: instalitre
   lastfm: #username
   tumblr: #username
   pinterest: #username
