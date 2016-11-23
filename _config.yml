@@ -1,57 +1,69 @@
-# Site settings
-title: Aditya Kushwaha
-email: contact.kushwaha@gmail.com
-url: https://adityakushwaha.github.io
-description: "A showcase of the technologies Aditya Kushwaha has worked on."
-skills: "Lead Android Developer - Product Developer"
-meta_author: Aditya Kushwaha
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: Leonids
+email:
+description: A simple and awesome blog theme powered by jekyll.
+url: # the base hostname & protocol for your site
 
-# Google webmaster tools
-google_verify:
 
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Europe/Paris
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
 
-# Contact form:
-# - static : pass through formspree.io to validate email sending
-# - disqus : replace contact form by disqus thread
-# - comment the line below if you want to stick with the default PHP contact form
-contact: static
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
 
-# If you use disqus you need disqus shortname
-# https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
-
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
-
-# Footer settings
-footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: https://twitter.com/kushwaha_aditya
-  - title: stack-overflow
-    url: http://stackoverflow.com/users/1724697/kushwaha
-  - title: github
-    url: https://github.com/adityaKushwaha
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: New Delhi, India
-
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
-
-# Build settings
-markdown: kramdown
-permalink: pretty
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: Leonids
+  avatar: leonids-logo.png
+  job: "A jekyll theme"
+  bio: "A simple and awesome blog theme powered by jekyll."
+  email:
+  disqus-shortname:
+  twitter: #username
+  facebook: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: #username
+  gitlab: #username
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+  skype: #username
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  500px: #username
+  codepen: #username
