@@ -5,7 +5,7 @@
 #
 title: Aditya Kushwaha
 email: contact.kushwaha@gmail.com
-description: Product Developer - Former Lead Android Developer at Zomato
+description: "Mobile Developer - Product Developer - Former Lead Android Developer at Zomato - Looking for the next adventure!"
 url: # the base hostname & protocol for your site
 
 
@@ -34,9 +34,9 @@ kramdown:
 #
 owner:
   name: Aditya Kushwaha
-  avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "Product Developer - Former Lead Android Developer at Zomato"
+  avatar: aditya2.png
+  job: ""
+  bio: "Mobile Developer - Product Developer - Former Lead Android Developer at Zomato - Looking for the next adventure!"
   email: contact.kushwaha@gmail.com
   disqus-shortname:
   twitter: kushwaha_aditya
