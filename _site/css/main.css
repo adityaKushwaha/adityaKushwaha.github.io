@@ -1108,7 +1108,7 @@ small,
   font-weight: normal; }
 
 p {
-  margin: 1.2em 0;
+  margin: 0.2em 0;
   word-spacing: 0.05em;
   line-height: 1.6em; }
 
@@ -1601,7 +1601,7 @@ ul.tag-cloud {
   transform: translate3d(0, 0, 1px); }
   @media only screen and (min-width: 600px) {
     .post-listing {
-      padding: 50px 30px 0; } }
+      padding: 20px 30px 0; } }
   @media only screen and (min-width: 992px) {
     .post-listing {
       height: 100vh;
@@ -1618,7 +1618,7 @@ ul.tag-cloud {
   padding-right: 20px; }
 
 section.post {
-  margin-bottom: 80px; }
+  margin-bottom: 30px; }
 
 .back-home a {
   font-size: 13px;
@@ -1708,7 +1708,7 @@ a.read-more {
     vertical-align: middle; }
 
 .post-image-feature {
-  margin-bottom: 40px; }
+  margin-bottom: 10px; }
   .post-image-feature .feature-image {
     width: 100%;
     max-height: 500px; }
