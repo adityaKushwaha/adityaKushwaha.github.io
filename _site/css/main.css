@@ -1108,7 +1108,7 @@ small,
   font-weight: normal; }
 
 p {
-  margin: 0.2em 0;
+  margin: 1.2em 0;
   word-spacing: 0.05em;
   line-height: 1.6em; }
 
@@ -1618,7 +1618,7 @@ ul.tag-cloud {
   padding-right: 20px; }
 
 section.post {
-  margin-bottom: 30px; }
+  margin-bottom: 80px; }
 
 .back-home a {
   font-size: 13px;
@@ -1708,7 +1708,7 @@ a.read-more {
     vertical-align: middle; }
 
 .post-image-feature {
-  margin-bottom: 10px; }
+  margin-bottom: 40px; }
   .post-image-feature .feature-image {
     width: 100%;
     max-height: 500px; }
