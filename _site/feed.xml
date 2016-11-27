@@ -5,35 +5,47 @@
     <description>Experience in Mobile &amp; Product Development - Former Lead Android Developer at Zomato - Over 70 releases to the Google Play Store - Looking to build the next big thing!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 27 Nov 2016 13:51:23 +0100</pubDate>
-    <lastBuildDate>Sun, 27 Nov 2016 13:51:23 +0100</lastBuildDate>
+    <pubDate>Sun, 27 Nov 2016 16:39:53 +0100</pubDate>
+    <lastBuildDate>Sun, 27 Nov 2016 16:39:53 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
         <title>Zomato Android App v9</title>
-        <description>&lt;p&gt;This version saw a major shift in how we handled our underlying layers: network and transport layer and data! 
-We moved from parsing data using XML parsers to the new age GSON parsers, changed our HTTP client to OkHttp3 for an array of improvements.&lt;/p&gt;
+        <description>&lt;p&gt;This version saw a major shift in how we handled our network and data. The underlying layers - network, transport and data were revisited for the first time since 2012, benchmarked against the industry standards and overhauled. &lt;br /&gt;&lt;/p&gt;
 
 &lt;!--more--&gt;
 
-&lt;h3 id=&quot;more-in-this-version&quot;&gt;More in this version:&lt;/h3&gt;
+&lt;p&gt;We moved from parsing data using archaic XML parsers to the new age GSON parsers, changed our HTTP client to OkHttp3 for an array of improvements.
+You can read more about this change on &lt;a href=&quot;https://engineering.zomato.com/rewriting-the-network-connection-layer-in-our-android-apps-11771c71012#.q88rc7v0k&quot;&gt;Zomato’s Engineering blog. &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h5&gt; Major changes in this version also included the following- &lt;/h5&gt;
 &lt;ul&gt;
-  &lt;li&gt;Moved to Bottom Navigation on the Home page.&lt;/li&gt;
-  &lt;li&gt;Introduced Table Reservations through the app.&lt;/li&gt;
-  &lt;li&gt;Integrated our inhouse Data Analysing Engine (Jumbo!) deep into the app.&lt;/li&gt;
-  &lt;li&gt;Google App Indexing&lt;/li&gt;
+  &lt;li&gt;Bottom Navigation on the Home page - We completely redessigned the Home Page to have mutiple fragments and placed a navigational tab at the bottom. These new tabs led to easier navigational UX.&lt;/li&gt;
+  &lt;li&gt;Introduced Table Reservations through the app -  We started a new vertical of operations to get into online table reservations.&lt;/li&gt;
+  &lt;li&gt;Integrated our inhouse Data Analysing Engine (Jumbo!) deep into the app - Moving past GA (Google Analytics), we integrated our inhouse data tool to give insights into user lifecycle &amp;amp; behavior, trends and feature usage. Events and screens were logged and batched light-weight API calls made near real-time monitoring possible.&lt;/li&gt;
+  &lt;li&gt;Google App Indexing - Read about App Indexing on the official &lt;a href=&quot;https://developer.android.com/training/app-indexing/index.html&quot;&gt;Android Developers&lt;/a&gt; page.
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/v9/v9_home_tabs.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;
+&lt;h5&gt; Here are some screens from this version- &lt;/h5&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;New Home Page with Bottom Navigation Bar&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/v9/v9_home.jpg&quot; /&gt;
 &lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Real-time permissions&lt;/em&gt; &lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/img/v9/v9_permissions.jpg&quot; height=&quot;600&quot; width=&quot;600&quot; /&gt;
 &lt;br /&gt;
-&lt;img src=&quot;http://localhost:4000/img/v9/v9_home.jpg&quot; /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;http://localhost:4000/img/v9/v9_permissions.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;http://localhost:4000/img/v9/v9_user_dineline.jpg&quot; /&gt;&lt;/p&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;User page&lt;/em&gt; &lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/img/v9/v9_user_dineline.jpg&quot; height=&quot;1000&quot; width=&quot;800&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/articles/2016-04/v9</link>

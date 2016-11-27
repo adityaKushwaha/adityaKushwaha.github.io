@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>Zomato Android App v9</title>
-  <meta name="description" content="This version saw a major shift in how we handled our underlying layers: network and transport layer and data! We moved from parsing data using XML parsers to...">
+  <meta name="description" content="This version saw a major shift in how we handled our network and data. The underlying layers - network, transport and data were revisited for the first time ...">
 
   <!-- CSS files -->
   <link rel="stylesheet" href="http://localhost:4000/css/font-awesome.min.css">
@@ -151,29 +151,41 @@
   </header>
 
   <article class="post-content">
-    <p>This version saw a major shift in how we handled our underlying layers: network and transport layer and data! 
-We moved from parsing data using XML parsers to the new age GSON parsers, changed our HTTP client to OkHttp3 for an array of improvements.</p>
+    <p>This version saw a major shift in how we handled our network and data. The underlying layers - network, transport and data were revisited for the first time since 2012, benchmarked against the industry standards and overhauled. <br /></p>
 
 <!--more-->
 
-<h3 id="more-in-this-version">More in this version:</h3>
+<p>We moved from parsing data using archaic XML parsers to the new age GSON parsers, changed our HTTP client to OkHttp3 for an array of improvements.
+You can read more about this change on <a href="https://engineering.zomato.com/rewriting-the-network-connection-layer-in-our-android-apps-11771c71012#.q88rc7v0k">Zomato’s Engineering blog. </a></p>
+
+<p><br /></p>
+<h5> Major changes in this version also included the following- </h5>
 <ul>
-  <li>Moved to Bottom Navigation on the Home page.</li>
-  <li>Introduced Table Reservations through the app.</li>
-  <li>Integrated our inhouse Data Analysing Engine (Jumbo!) deep into the app.</li>
-  <li>Google App Indexing</li>
+  <li>Bottom Navigation on the Home page - We completely redessigned the Home Page to have mutiple fragments and placed a navigational tab at the bottom. These new tabs led to easier navigational UX.</li>
+  <li>Introduced Table Reservations through the app -  We started a new vertical of operations to get into online table reservations.</li>
+  <li>Integrated our inhouse Data Analysing Engine (Jumbo!) deep into the app - Moving past GA (Google Analytics), we integrated our inhouse data tool to give insights into user lifecycle &amp; behavior, trends and feature usage. Events and screens were logged and batched light-weight API calls made near real-time monitoring possible.</li>
+  <li>Google App Indexing - Read about App Indexing on the official <a href="https://developer.android.com/training/app-indexing/index.html">Android Developers</a> page.
+<br />
+<br /></li>
 </ul>
 
-<p><img src="http://localhost:4000/img/v9/v9_home_tabs.jpg" /><!-- height="100" width="100">-->
+<h5> Here are some screens from this version- </h5>
+
+<blockquote>
+  <p>New Home Page with Bottom Navigation Bar</p>
+</blockquote>
+
+<p><img src="http://localhost:4000/img/v9/v9_home.jpg" />
 <br />
+<br /></p>
+
+<p><em>Real-time permissions</em> <br />
+<img src="http://localhost:4000/img/v9/v9_permissions.jpg" height="600" width="600" />
 <br />
-<img src="http://localhost:4000/img/v9/v9_home.jpg" />
-<br />
-<br />
-<img src="http://localhost:4000/img/v9/v9_permissions.jpg" /><!-- height="100" width="100">-->
-<br />
-<br />
-<img src="http://localhost:4000/img/v9/v9_user_dineline.jpg" /></p>
+<br /></p>
+
+<p><em>User page</em> <br />
+<img src="http://localhost:4000/img/v9/v9_user_dineline.jpg" height="1000" width="800" /></p>
 
   </article>
 </div>
