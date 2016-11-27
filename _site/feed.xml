@@ -5,8 +5,8 @@
     <description>Experience in Mobile &amp; Product Development - Former Lead Android Developer at Zomato - Over 70 releases to the Google Play Store - Looking to build the next big thing!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 27 Nov 2016 16:39:53 +0100</pubDate>
-    <lastBuildDate>Sun, 27 Nov 2016 16:39:53 +0100</lastBuildDate>
+    <pubDate>Sun, 27 Nov 2016 16:43:22 +0100</pubDate>
+    <lastBuildDate>Sun, 27 Nov 2016 16:43:22 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -48,8 +48,8 @@ You can read more about this change on &lt;a href=&quot;https://engineering.zoma
 &lt;img src=&quot;http://localhost:4000/img/v9/v9_user_dineline.jpg&quot; height=&quot;1000&quot; width=&quot;800&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/articles/2016-04/v9</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2016-04/v9</guid>
+        <link>http://localhost:4000/articles/2016-04/Zomato-Android-App-v9</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2016-04/Zomato-Android-App-v9</guid>
         
         
         <category>Zomato</category>
@@ -82,8 +82,8 @@ You can read more about this change on &lt;a href=&quot;https://engineering.zoma
 
 </description>
         <pubDate>Mon, 02 Nov 2015 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/articles/2015-11/v8</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2015-11/v8</guid>
+        <link>http://localhost:4000/articles/2015-11/Zomato-Android-App-v8</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2015-11/Zomato-Android-App-v8</guid>
         
         
         <category>Zomato</category>
@@ -110,8 +110,8 @@ With time, we transitioned our users, scaled our systems and evolved to play wit
 &lt;img src=&quot;http://localhost:4000/img/sc_v7/material_home.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 26 May 2015 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/articles/2015-05/v7</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2015-05/v7</guid>
+        <link>http://localhost:4000/articles/2015-05/Zomato-Android-App-v7</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2015-05/Zomato-Android-App-v7</guid>
         
         
         <category>Zomato</category>
@@ -145,8 +145,8 @@ With time, we transitioned our users, scaled our systems and evolved to play wit
 &lt;img src=&quot;http://localhost:4000/img/sc_v6/order_flow_2.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 29 Oct 2014 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/articles/2014-10/v6</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2014-10/v6</guid>
+        <link>http://localhost:4000/articles/2014-10/Zomato-Android-App-v6</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2014-10/Zomato-Android-App-v6</guid>
         
         
         <category>Zomato</category>
@@ -172,8 +172,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pharetra libero ut 
 &lt;img src=&quot;http://localhost:4000/img/sc_v5/rest.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 04 Jul 2014 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/articles/2014-07/v5</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2014-07/v5</guid>
+        <link>http://localhost:4000/articles/2014-07/Zomato-Android-App-v5</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2014-07/Zomato-Android-App-v5</guid>
         
         
         <category>Zomato</category>
@@ -196,8 +196,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pharetra libero ut 
 &lt;img src=&quot;http://localhost:4000/img/sc_v3/tour.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 21 Nov 2013 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/articles/2013-11/v3</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2013-11/v3</guid>
+        <link>http://localhost:4000/articles/2013-11/Zomato-Android-App-v3</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2013-11/Zomato-Android-App-v3</guid>
         
         
         <category>Zomato</category>
@@ -230,8 +230,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pharetra libero ut 
 
 </description>
         <pubDate>Thu, 04 Oct 2012 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/articles/2012-10/v2</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2012-10/v2</guid>
+        <link>http://localhost:4000/articles/2012-10/Zomato-Android-App-v2</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2012-10/Zomato-Android-App-v2</guid>
         
         
         <category>Zomato</category>
