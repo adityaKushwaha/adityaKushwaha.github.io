@@ -5,8 +5,8 @@
     <description>Experience in Mobile &amp; Product Development - Former Lead Android Developer at Zomato - Over 70 releases to the Google Play Store - Looking to build the next big thing!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 26 Nov 2016 10:13:25 +0100</pubDate>
-    <lastBuildDate>Sat, 26 Nov 2016 10:13:25 +0100</lastBuildDate>
+    <pubDate>Sun, 27 Nov 2016 13:51:23 +0100</pubDate>
+    <lastBuildDate>Sun, 27 Nov 2016 13:51:23 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -24,6 +24,16 @@ We moved from parsing data using XML parsers to the new age GSON parsers, change
   &lt;li&gt;Google App Indexing&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/v9/v9_home_tabs.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/img/v9/v9_home.jpg&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/img/v9/v9_permissions.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/img/v9/v9_user_dineline.jpg&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/articles/2016-04/v9</link>
@@ -50,6 +60,14 @@ We moved from parsing data using XML parsers to the new age GSON parsers, change
   &lt;li&gt;Moved from multiple tabs on Home to a single tab app with importance to the Hamburger menu.&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/sc_v8/home.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/img/sc_v8/photo_upload.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/img/sc_v8/search.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;&lt;/p&gt;
+
 </description>
         <pubDate>Mon, 02 Nov 2015 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/articles/2015-11/v8</link>
@@ -73,6 +91,11 @@ With time, we transitioned our users, scaled our systems and evolved to play wit
   &lt;li&gt;Material Design Principles were introduced.&lt;/li&gt;
   &lt;li&gt;The store front of our app - The Restaurant Page - was made from scratch to include the product changes from UrbanSpoon.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/sc_v7/material_cards.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/img/sc_v7/material_home.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 26 May 2015 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/articles/2015-05/v7</link>
@@ -100,6 +123,14 @@ With time, we transitioned our users, scaled our systems and evolved to play wit
   &lt;li&gt;Map Search - Google Map API to plot restuarants on the map. Users could draw custom polygons on the map overlay and the restaurnats in the area enclosed would be displayed.&lt;/li&gt;
   &lt;li&gt;Android Wear Support!&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/sc_v6/home_locales.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/img/sc_v6/order_flow_1.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/img/sc_v6/order_flow_2.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 29 Oct 2014 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/articles/2014-10/v6</link>
@@ -112,7 +143,21 @@ With time, we transitioned our users, scaled our systems and evolved to play wit
     
       <item>
         <title>Zomato Android App v5</title>
-        <description>&lt;p&gt;3sdsdsd v5&lt;/p&gt;
+        <description>&lt;p&gt;v5
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pharetra libero ut nibh porta mollis. Nam accumsan et ante tempor interdum.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/sc_v5/collections.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/img/sc_v5/home.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/img/sc_v5/login.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/img/sc_v5/rest.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 04 Jul 2014 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/articles/2014-07/v5</link>
@@ -125,7 +170,18 @@ With time, we transitioned our users, scaled our systems and evolved to play wit
     
       <item>
         <title>Zomato Android App v3</title>
-        <description>&lt;p&gt;sdjsdjsdj v3&lt;/p&gt;
+        <description>&lt;p&gt;v3 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pharetra libero ut nibh porta mollis. Nam accumsan et ante tempor interdum.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/sc_v3/home.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/img/sc_v3/photo_upload.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/img/sc_v3/tour.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 21 Nov 2013 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/articles/2013-11/v3</link>
@@ -138,7 +194,28 @@ With time, we transitioned our users, scaled our systems and evolved to play wit
     
       <item>
         <title>Zomato Android App v2</title>
-        <description>&lt;p&gt;Introducing the Social Food Network&lt;/p&gt;
+        <description>&lt;p&gt;Introducing the Social Food Network
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pharetra libero ut nibh porta mollis. Nam accumsan et ante tempor interdum.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/sc_v2/best_of.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/img/sc_v2/create_content.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/img/sc_v2/home.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/img/sc_v2/leaderboard.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/img/sc_v2/login.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/img/sc_v2/search_res.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;&lt;/p&gt;
+
 </description>
         <pubDate>Thu, 04 Oct 2012 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/articles/2012-10/v2</link>
