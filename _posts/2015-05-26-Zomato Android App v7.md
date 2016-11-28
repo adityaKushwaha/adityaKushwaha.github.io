@@ -10,13 +10,22 @@ With time, we transitioned our users, scaled our systems and evolved to play wit
 
 <!--more-->
 
-### More in this version:
-* Certificate Pinning using Deffie Hellman, Whitfield Diffie and Martin Hellman later went on to win the Turin award in 2015!
-* Material Design Principles were introduced. 
+
+<br>
+<h5> Major changes in this version also included the following- </h5>
+* <b>Certificate Pinning using Deffie Hellman Key Exchange Algiorithm</b> - Pinning is the process of associating a host with their expected X509 certificate or public key. Whitfield Diffie and Martin Hellman later went on to win the coveted <b>Turin award</b> in 2015!
+* <b>Material Design principles</b> were introduced. 
 * The store front of our app - The Restaurant Page - was made from scratch to include the product changes from UrbanSpoon.
-
-
-<img src="{{site.url}}/img/sc_v7/material_cards.jpg"><!-- height="100" width="100">-->
 <br>
 <br>
-<img src="{{site.url}}/img/sc_v7/material_home.jpg"><!-- height="100" width="100">-->
+
+<h5> Here are some screens from this version- </h5>
+
+
+*The new look Home page with Material Design elements*<br>
+<img src="{{site.url}}/img/sc_v7/material_home.jpg" >
+<br>
+<br>
+
+*Pages with Material Design inspired cards*<br>
+<img src="{{site.url}}/img/sc_v7/material_cards.jpg" height="1000" width="800">

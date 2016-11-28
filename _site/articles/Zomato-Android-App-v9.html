@@ -6,14 +6,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Welcome to Jekyll!</title>
-  <meta name="description" content="You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different wa...">
+  <title>Zomato Android App v9</title>
+  <meta name="description" content="This version saw a major shift in how we handled our network and data. The underlying layers - network, transport and data were revisited for the first time ...">
 
   <!-- CSS files -->
   <link rel="stylesheet" href="http://localhost:4000/css/font-awesome.min.css">
   <link rel="stylesheet" href="http://localhost:4000/css/main.css">
 
-  <link rel="canonical" href="http://localhost:4000/articles/2011-08/welcome-to-jekyll">
+  <link rel="canonical" href="http://localhost:4000/articles/Zomato-Android-App-v9">
   <link rel="alternate" type="application/rss+xml" title="Aditya Kushwaha" href="http://localhost:4000/feed.xml" />
 
   <!-- Icons -->
@@ -119,14 +119,24 @@
   Home
 </a>
 
+<div class="post-image-feature">
+  <img class="feature-image" src=
+  
+  "http://localhost:4000/img//v9.jpg"
+  
+  alt="Zomato Android App v9 feature image">
+
+  
+</div><!-- /.image-wrap -->
+
 
 
 <div id="post">
   <header class="post-header">
-    <h1 title="Welcome to Jekyll!">Welcome to Jekyll!</h1>
+    <h1 title="Zomato Android App v9">Zomato Android App v9</h1>
     <span class="post-meta">
       <span class="post-date">
-        18 AUG 2011
+        27 APR 2016
       </span>
       •
       <span class="read-time" title="Estimated read time">
@@ -141,22 +151,39 @@
   </header>
 
   <article class="post-content">
-    <p>You’ll find this post in your <code class="highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
-
-<p>To add new posts, simply add a file in the <code class="highlighter-rouge">_posts</code> directory that follows the convention <code class="highlighter-rouge">YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+    <p>This version saw a major shift in how we handled our network and data. The underlying layers - network, transport and data were revisited for the first time since 2012, benchmarked against the industry standards and overhauled. <br /></p>
 
 <!--more-->
 
-<p>Jekyll also offers powerful support for code snippets:</p>
+<p>We moved from parsing data using archaic XML parsers to the new age GSON parsers, changed our HTTP client to OkHttp3 for an array of improvements.
+You can read more about this change on <a href="https://engineering.zomato.com/rewriting-the-network-connection-layer-in-our-android-apps-11771c71012#.q88rc7v0k">Zomato’s Engineering blog. </a></p>
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+<p><br /></p>
+<h5> Major changes in this version also included the following- </h5>
+<ul>
+  <li><b>Bottom Navigation on the Home page</b> - We completely redessigned the Home Page to have mutiple fragments and placed a navigational tab at the bottom. These new tabs led to easier navigational UX.</li>
+  <li>Introduced <b>Table Reservations through the app</b> -  We started a new vertical of operations to get into online table reservations.</li>
+  <li>Integrated our inhouse <b>Data Analysing Engine (Jumbo!)</b> deep into the app - Moving past GA (Google Analytics), we integrated our inhouse data tool to give insights into user lifecycle &amp; behavior, trends and feature usage. Events and screens were logged and batched light-weight API calls made near real-time monitoring possible.</li>
+  <li><b>Google App Indexing</b> - Read about App Indexing on the official <a href="https://developer.android.com/training/app-indexing/index.html">Android Developer’s</a> page.</li>
+  <li><b>Requesting Permissions at Runtime</b> - Reworkd all the permissions in the app and started to ask for permission at run time instead of install time. Read more about them on the <a href="https://developer.android.com/training/permissions/requesting.html"> Android Developer’s</a> page.
+<br />
+<br /></li>
+</ul>
 
-<p>Check out the <a href="http://jekyllrb.com">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://github.com/jekyll/jekyll-help">Jekyll’s dedicated Help repository</a>.</p>
+<h5> Here are some screens from this version- </h5>
 
+<p><em>New Home Page with a Bottom Navigation Bar</em>
+<img src="http://localhost:4000/img/v9/v9_home.jpg" />
+<br />
+<br /></p>
+
+<p><em>Runtime permissions</em> <br />
+<img src="http://localhost:4000/img/v9/v9_permissions.jpg" height="600" width="600" />
+<br />
+<br /></p>
+
+<p><em>User page with detailed ‘Dineline’</em> <br />
+<img src="http://localhost:4000/img/v9/v9_user_dineline.jpg" height="1000" width="800" /></p>
 
   </article>
 </div>
@@ -165,19 +192,19 @@
   <h6>Share on: </h6>
   <ul>
     <li>
-      <a href="https://twitter.com/intent/tweet?text=http://localhost:4000/articles/2011-08/welcome-to-jekyll" class="twitter btn" title="Share on Twitter"><i class="fa fa-twitter"></i><span> Twitter</span></a>
+      <a href="https://twitter.com/intent/tweet?text=http://localhost:4000/articles/Zomato-Android-App-v9" class="twitter btn" title="Share on Twitter"><i class="fa fa-twitter"></i><span> Twitter</span></a>
     </li>
     <li>
-      <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/articles/2011-08/welcome-to-jekyll" class="facebook btn" title="Share on Facebook"><i class="fa fa-facebook"></i><span> Facebook</span></a>
+      <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/articles/Zomato-Android-App-v9" class="facebook btn" title="Share on Facebook"><i class="fa fa-facebook"></i><span> Facebook</span></a>
     </li>
     <li>
-      <a href="https://plus.google.com/share?url=http://localhost:4000/articles/2011-08/welcome-to-jekyll" class="google-plus btn" title="Share on Google Plus"><i class="fa fa-google-plus"></i><span> Google+</span></a>
+      <a href="https://plus.google.com/share?url=http://localhost:4000/articles/Zomato-Android-App-v9" class="google-plus btn" title="Share on Google Plus"><i class="fa fa-google-plus"></i><span> Google+</span></a>
     </li>
     <li>
-      <a href="https://news.ycombinator.com/submitlink?u=http://localhost:4000/articles/2011-08/welcome-to-jekyll" class="hacker-news btn" title="Share on Hacker News"><i class="fa fa-hacker-news"></i><span> Hacker News</span></a>
+      <a href="https://news.ycombinator.com/submitlink?u=http://localhost:4000/articles/Zomato-Android-App-v9" class="hacker-news btn" title="Share on Hacker News"><i class="fa fa-hacker-news"></i><span> Hacker News</span></a>
     </li>
     <li>
-      <a href="https://www.reddit.com/submit?url=http://localhost:4000/articles/2011-08/welcome-to-jekyll" class="reddit btn" title="Share on Reddit"><i class="fa fa-reddit"></i><span> Reddit</span></a>
+      <a href="https://www.reddit.com/submit?url=http://localhost:4000/articles/Zomato-Android-App-v9" class="reddit btn" title="Share on Reddit"><i class="fa fa-reddit"></i><span> Reddit</span></a>
     </li>
   </ul>
 </div><!-- end share-buttons -->
