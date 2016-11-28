@@ -1055,9 +1055,13 @@ a {
     color: #75cea5;
     text-decoration: none; }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h4, h5, h6 {
   font-weight: 600;
   line-height: 1.7; }
+
+h3 {
+  font-weight: 600;
+  line-height: 1.2; }
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   font-weight: inherit;
@@ -1074,8 +1078,8 @@ h2 {
   margin: 0.875rem 0 0.7rem 0; }
 
 h3 {
-  font-size: 1.5rem;
-  margin: 0.75rem 0 0.6rem 0; }
+  font-size: 1.6rem;
+  margin: 0 0 0 0; }
 
 h4 {
   font-size: 1.25rem;
@@ -1609,6 +1613,12 @@ ul.tag-cloud {
       position: initial;
       top: 0; } }
 
+hr {
+  margin-top: 1rem;
+  margin-bottom: 0rem;
+  border: 0;
+  border-top: 0.09rem solid rgba(0, 0, 0, 0.1); }
+
 .image-credit {
   float: right;
   font-weight: bold;
@@ -1618,7 +1628,7 @@ ul.tag-cloud {
   padding-right: 20px; }
 
 section.post {
-  margin-bottom: 30px; }
+  margin-bottom: 25px; }
 
 .back-home a {
   font-size: 13px;
@@ -1627,6 +1637,9 @@ section.post {
   border: 1px solid rgba(115, 115, 115, 0.87);
   border-radius: 0.4em;
   padding: 0.5em 1em; }
+
+.post-description {
+  margin-top: 10px; }
 
 .post-title-link {
   color: #42b983;

@@ -19,6 +19,13 @@
   }
 }
 
+hr {
+    margin-top: 1rem;
+    margin-bottom: 0rem;
+    border: 0;
+    border-top: 0.09rem solid rgba(0, 0, 0, 0.1);
+}
+
 .image-credit {
   float: right;
   font-weight: bold;
@@ -30,7 +37,7 @@
 
 // Post Section
 section.post {
-	margin-bottom: 30px;
+	margin-bottom: 25px;
 }
 
 // Back home button
@@ -47,6 +54,10 @@ section.post {
 // Post title
 .post-title {
 
+}
+
+.post-description {
+  margin-top: 10px;
 }
 
 .post-title-link {
