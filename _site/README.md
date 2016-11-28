@@ -1,3 +1,11 @@
+
+This site was made using a Jekyll theme made by [Renyuan] (https://github.com/renyuanz)
+Clone the repository [here](https://github.com/renyuanz/leonids) and get started!
+
+I have used it to make my Developer bio! Have a look at http://kushwaha.tech
+
+-------------------------------------------------------------------------------------------
+
 ### Update 03/08/2016
 I'm working on making leonids a [jekyll theme](https://jekyllrb.com/docs/themes/) so that people can easily install the theme without having to fork or download anything from here. Actually the first gem version is published, you can install it by following the official [doc](https://jekyllrb.com/docs/themes/). You can find the rubygem version [here](https://rubygems.org/gems/leonids). But it will be on beta until I can finish the doc of how you can install leonids with the rubygem version.
 
