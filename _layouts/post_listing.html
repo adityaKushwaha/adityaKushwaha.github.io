@@ -37,7 +37,9 @@ layout: default
     {% if post.excerpt %}
     <div class="post-description">
       <p>
+      <a href="{{ site.url }}{{ post.url }}" class="post-text-link" title="{{ post.title }}">
         {{ post.excerpt }}
+        </a>
       </p>
     </div>
     {% endif %}

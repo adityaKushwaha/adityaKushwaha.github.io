@@ -1648,6 +1648,11 @@ section.post {
   .post-title-link:hover, .post-title-link:focus {
     color: #75cea5; }
 
+.post-text-link {
+  color: rgba(0, 0, 0, 0.87); }
+  .post-text-link:hover, .post-text-link:focus {
+    color: rgba(112, 112, 112, 0.87); }
+
 .post-meta {
   font-size: 13px;
   font-weight: bold; }

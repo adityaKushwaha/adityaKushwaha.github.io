@@ -70,6 +70,16 @@ section.post {
 	}
 }
 
+
+.post-text-link {
+  color: $text-color;
+  &:hover,
+  &:focus {
+    color: lighten($text-color, 44%);
+  }
+}
+
+
 // Post meta
 .post-meta {
   font-size: 13px;
