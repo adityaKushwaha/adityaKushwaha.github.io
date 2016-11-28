@@ -20,10 +20,10 @@
 }
 
 hr {
-    margin-top: 1rem;
-    margin-bottom: 0rem;
+    margin-top: -0.5rem;
+    margin-bottom: 2rem;
     border: 0;
-    border-top: 0.09rem solid rgba(0, 0, 0, 0.1);
+    border-top: 0.15rem solid rgba(0, 0, 0, 0.1);
 }
 
 .image-credit {
@@ -106,7 +106,7 @@ a.read-more {
 }
 
 #post h1 {
-  margin: 0.5em 0 1em;
+  margin: 0.5em 0 0em;
 }
 #post h2 {
   margin: 2em 0 0.8em;

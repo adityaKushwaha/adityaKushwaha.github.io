@@ -1070,7 +1070,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
     color: rgba(61, 61, 61, 0.87); }
 
 h1 {
-  font-size: 2rem;
+  font-size: 2.4rem;
   margin: 1rem 0 0.8rem 0; }
 
 h2 {
@@ -1078,7 +1078,7 @@ h2 {
   margin: 0.875rem 0 0.7rem 0; }
 
 h3 {
-  font-size: 1.6rem;
+  font-size: 1.9rem;
   margin: 0 0 0 0; }
 
 h4 {
@@ -1614,10 +1614,10 @@ ul.tag-cloud {
       top: 0; } }
 
 hr {
-  margin-top: 1rem;
-  margin-bottom: 0rem;
+  margin-top: -0.5rem;
+  margin-bottom: 2rem;
   border: 0;
-  border-top: 0.09rem solid rgba(0, 0, 0, 0.1); }
+  border-top: 0.15rem solid rgba(0, 0, 0, 0.1); }
 
 .image-credit {
   float: right;
@@ -1671,7 +1671,7 @@ a.read-more {
     margin: 0 auto 50px; }
 
 #post h1 {
-  margin: 0.5em 0 1em; }
+  margin: 0.5em 0 0em; }
 
 #post h2 {
   margin: 2em 0 0.8em;
