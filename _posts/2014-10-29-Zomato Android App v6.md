@@ -30,14 +30,14 @@ After winning the markets in India and the UAE, we started expanding to more geo
 
 
 *Home page differs according to the Locale and Location of the user*<br>
-<img src="{{site.url}}/img/sc_v6/home_locales.jpg"><!-- height="100" width="100">-->
+<img src="{{site.url}}/img/sc_v6/home_locales.jpg" height="1000" width="1000">
 <br>
 <br>
 
 *Screens demonstrating Online Ordering flow (Image 1 of 2)*<br>
-<img src="{{site.url}}/img/sc_v6/order_flow_1.jpg"><!-- height="100" width="100">-->
+<img src="{{site.url}}/img/sc_v6/order_flow_1.jpg" height="1000" width="800">
 <br>
 <br>
 
 *Screens demonstrating Online Ordering flow (Image 2 of 2)*<br>
-<img src="{{site.url}}/img/sc_v6/order_flow_2.jpg"><!-- height="100" width="100">-->
+<img src="{{site.url}}/img/sc_v6/order_flow_2.jpg" height="1000" width="800">

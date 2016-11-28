@@ -5,8 +5,8 @@
     <description>Experience in Mobile &amp; Product Development - Former Lead Android Developer at Zomato - Over 70 releases to the Google Play Store - Looking to build the next big thing!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Nov 2016 13:40:16 +0100</pubDate>
-    <lastBuildDate>Mon, 28 Nov 2016 13:40:16 +0100</lastBuildDate>
+    <pubDate>Mon, 28 Nov 2016 15:00:37 +0100</pubDate>
+    <lastBuildDate>Mon, 28 Nov 2016 15:00:37 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -170,17 +170,17 @@ With time, we transitioned our users, scaled our systems and evolved to play wit
 &lt;h5&gt; Here are some screens from this version- &lt;/h5&gt;
 
 &lt;p&gt;&lt;em&gt;Home page differs according to the Locale and Location of the user&lt;/em&gt;&lt;br /&gt;
-&lt;img src=&quot;http://localhost:4000/img/sc_v6/home_locales.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;
+&lt;img src=&quot;http://localhost:4000/img/sc_v6/home_locales.jpg&quot; height=&quot;1000&quot; width=&quot;1000&quot; /&gt;
 &lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Screens demonstrating Online Ordering flow (Image 1 of 2)&lt;/em&gt;&lt;br /&gt;
-&lt;img src=&quot;http://localhost:4000/img/sc_v6/order_flow_1.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;
+&lt;img src=&quot;http://localhost:4000/img/sc_v6/order_flow_1.jpg&quot; height=&quot;1000&quot; width=&quot;800&quot; /&gt;
 &lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Screens demonstrating Online Ordering flow (Image 2 of 2)&lt;/em&gt;&lt;br /&gt;
-&lt;img src=&quot;http://localhost:4000/img/sc_v6/order_flow_2.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/img/sc_v6/order_flow_2.jpg&quot; height=&quot;1000&quot; width=&quot;800&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 29 Oct 2014 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/articles/Zomato-Android-App-v6</link>
@@ -193,21 +193,42 @@ With time, we transitioned our users, scaled our systems and evolved to play wit
     
       <item>
         <title>Zomato Android App v5</title>
-        <description>&lt;p&gt;v5
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pharetra libero ut nibh porta mollis. Nam accumsan et ante tempor interdum.&lt;/p&gt;
+        <description>&lt;p&gt;Users started to create lots of content on Zomato - reviews, photos and ratings. We used this surge of information created by the people to be used in beautiful endless scrolls of food feed to be used by other users. In true crowd-sourced fashion, we created a food guide that went beyond ratings and menus. It captured the moods of the commoners as well as the connoisseurs.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/sc_v5/collections.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h5&gt; Major changes in this version included the following- &lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Presenting the Food Feed! &lt;/b&gt; - World’s first timeline of food updates from around you and your friends. This increased the traction and the average session length of the app.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;New Home page&lt;/b&gt; - We completely redesigned the Home Page with a simple tab on top, re-ordering features on the home page according to their usage, the change was inevitable as we launched multiple new features that needed more face time.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Presenting Collections &lt;/b&gt; - We made a new feature where restaurants were classified as a group on the basis of a common USP, this feture went on to become the most loved feature. Collections differed n each city and later we let the users create their own collections. From London’s Fish &amp;amp; Chips places to India’s street food, collections are a big hit.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt; New Feature | Speed-dial/Bookmarks&lt;/b&gt; - This new feature allowed the users to maintain a list of their frequently visited restaurants.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt; New Splash &amp;amp; Login flow&lt;/b&gt; - We reduced the app launch time, optimized the login screens to increase conversions into registered users.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5&gt; Here are some screens from this version- &lt;/h5&gt;
+
+&lt;p&gt;&lt;em&gt;Home Page with simple tabs, highlighting the two most exciting features - Feed and Collections!&lt;/em&gt;&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/img/sc_v5/home.jpg&quot; height=&quot;1000&quot; width=&quot;800&quot; /&gt;
 &lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;splash with the new Login screens&lt;/em&gt;&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/img/sc_v5/login.jpg&quot; height=&quot;1000&quot; width=&quot;800&quot; /&gt;
 &lt;br /&gt;
-&lt;img src=&quot;http://localhost:4000/img/sc_v5/home.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;New Feature | Collections&lt;/em&gt;&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/img/sc_v5/collections.jpg&quot; height=&quot;1000&quot; width=&quot;800&quot; /&gt;
 &lt;br /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;http://localhost:4000/img/sc_v5/login.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;http://localhost:4000/img/sc_v5/rest.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;&lt;/p&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The new Restaurant page&lt;/em&gt;&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/img/sc_v5/rest.jpg&quot; height=&quot;1000&quot; width=&quot;600&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 04 Jul 2014 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/articles/Zomato-Android-App-v5</link>
