@@ -9,6 +9,7 @@ In the biggest ever move for us, we acquired UrbanSpoon! Our combined userbase g
 With time, we transitioned our users, scaled our systems and evolved to play with loads of data. 
 
 <!--more-->
+With this huge transition - life as we knew it had changed - Along with our logo, size of our userbase and areas of operation, multiple legacy algorithms and systems started to fail by the sheer scale of our data. We had to rework a lot of our logic to cater to this monumental scale of sessions on the app.
 
 
 <br>

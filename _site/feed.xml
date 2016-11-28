@@ -5,8 +5,8 @@
     <description>Experience in Mobile &amp; Product Development - Former Lead Android Developer at Zomato - Over 70 releases to the Google Play Store - Looking to build the next big thing!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Nov 2016 13:04:26 +0100</pubDate>
-    <lastBuildDate>Mon, 28 Nov 2016 13:04:26 +0100</lastBuildDate>
+    <pubDate>Mon, 28 Nov 2016 13:40:16 +0100</pubDate>
+    <lastBuildDate>Mon, 28 Nov 2016 13:40:16 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -106,6 +106,7 @@ You can read more about this change on &lt;a href=&quot;https://engineering.zoma
 With time, we transitioned our users, scaled our systems and evolved to play with loads of data.&lt;/p&gt;
 
 &lt;!--more--&gt;
+&lt;p&gt;With this huge transition - life as we knew it had changed - Along with our logo, size of our userbase and areas of operation, multiple legacy algorithms and systems started to fail by the sheer scale of our data. We had to rework a lot of our logic to cater to this monumental scale of sessions on the app.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h5&gt; Major changes in this version also included the following- &lt;/h5&gt;
@@ -138,28 +139,47 @@ With time, we transitioned our users, scaled our systems and evolved to play wit
     
       <item>
         <title>Zomato Android App v6</title>
-        <description>&lt;p&gt;After overshadowing the compition in India and in the UAE, we started expanding to more geographies. This led to an acquistion of the market leaders in Poland, Czech Republic, Slovakia, Italy and New Zealand. We welcomed the challange of introducing Zomato’s rich array of features with localised content while maintaining the familiarity of the old products - all this with one single apk file!&lt;/p&gt;
+        <description>&lt;p&gt;After winning the markets in India and the UAE, we started expanding to more geographies. This led to an acquisition of the market leaders in Poland, Czech Republic, Slovakia, Italy and New Zealand. We welcomed the challenge of introducing Zomato’s rich array of features with localized content while maintaining the familiarity of the old products - all this with one single apk file!&lt;/p&gt;
 
 &lt;!--more--&gt;
 
-&lt;h3 id=&quot;more-in-this-version&quot;&gt;More in this version:&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h5&gt; Major changes in this version also included the following- &lt;/h5&gt;
 &lt;ul&gt;
-  &lt;li&gt;Obedovat.sk in Slovakia&lt;/li&gt;
-  &lt;li&gt;gastronauci.pl In Poland&lt;/li&gt;
-  &lt;li&gt;Cibando in Italy&lt;/li&gt;
-  &lt;li&gt;MenuMania in New Zealand&lt;/li&gt;
-  &lt;li&gt;Text Menus, Daily Menus&lt;/li&gt;
-  &lt;li&gt;Google Maps v2&lt;/li&gt;
-  &lt;li&gt;Map Search - Google Map API to plot restuarants on the map. Users could draw custom polygons on the map overlay and the restaurnats in the area enclosed would be displayed.&lt;/li&gt;
-  &lt;li&gt;Android Wear Support!&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt; Shift in Android Development Paradigm&lt;/b&gt; - After running into the 65k method reference limit, moving from Eclipse to Android Studio, switching to a MultiDex application, getting rid of Google Play Services binary to be replaced by individual jars, obfuscating the code-base using Proguard - we ended up changing a lot of the code-base during this time.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Product Overhaul &amp;amp; New Geographies&lt;/b&gt; - Consolidation of regional leaders in new geographies meant that we had to evolve the product to ease the newly acquired users into our product. We integrated Text Menus, Daily Menus in our product. The new acquisitions included;
+    &lt;ul&gt;
+      &lt;li&gt;Obedovat in Slovakia&lt;/li&gt;
+      &lt;li&gt;Gastronauci In Poland&lt;/li&gt;
+      &lt;li&gt;Cibando in Italy&lt;/li&gt;
+      &lt;li&gt;MenuMania in New Zealand&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Launched two new verticals of business&lt;/b&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;b&gt;Online Ordering&lt;/b&gt; - As displayed in the screen-shots at the bottom of this page, users could now place orders from their apps; we streamlined and automated a lot of this process of food take-outs and pickups.&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Cashless Transactions&lt;/b&gt; - This feature let the users to automate their payments through the Zomato app every time they went out to dine.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Searching for restaurants in Map view&lt;/b&gt; - Google Maps v2 APIs allowed us to plot restaurants on the map. Users could draw custom polygons on the map overlay and the restaurants in the area enclosed would be displayed.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Android Wear Support&lt;/b&gt; - Keeping up with the latest trends, we integrated Zomato notifications with Android Wear.
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/sc_v6/home_locales.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;
+&lt;h5&gt; Here are some screens from this version- &lt;/h5&gt;
+
+&lt;p&gt;&lt;em&gt;Home page differs according to the Locale and Location of the user&lt;/em&gt;&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/img/sc_v6/home_locales.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;
 &lt;br /&gt;
-&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Screens demonstrating Online Ordering flow (Image 1 of 2)&lt;/em&gt;&lt;br /&gt;
 &lt;img src=&quot;http://localhost:4000/img/sc_v6/order_flow_1.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;
 &lt;br /&gt;
-&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Screens demonstrating Online Ordering flow (Image 2 of 2)&lt;/em&gt;&lt;br /&gt;
 &lt;img src=&quot;http://localhost:4000/img/sc_v6/order_flow_2.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 29 Oct 2014 00:00:00 +0100</pubDate>
