@@ -5,8 +5,8 @@
 #
 title: Aditya Kushwaha
 email: contact.kushwaha@gmail.com
-description: "Experience in Mobile & Product Development - Former Lead Android Developer at Zomato - Over 70 releases to the Google Play Store - Looking to build the next big thing!"
-url: # the base hostname & protocol for your site
+description: "Mobile & Product Developer. Former Lead Android Engineer at Zomato"
+url: http://kushwaha.tech
 
 
 #
@@ -36,7 +36,13 @@ owner:
   name: Aditya Kushwaha
   avatar: aditya2.png
   job: "Lead Android Engineer"
-  bio: "Experience in Mobile & Product Development - Former Lead Android Developer at Zomato - Over 70 releases to the Google Play Store - Looking to build the next big thing!"
+  bio: "Mobile & Product Developer. <br>
+  Looking to build the next big thing!
+  <br><br>
+  Former Lead Android Developer at Zomato;<br>
+  4 years, over 70 releases to the Google Play Store, 8 Android Apps & Google Top Developer Badge
+  <br><br>"
+  #bio: "Experience in Mobile & Product Development - Former Lead Android Developer at Zomato - Over 70 releases to the Google Play Store - Looking to build the next big thing!"
   email: contact.kushwaha@gmail.com
   disqus-shortname:
   twitter: kushwaha_aditya

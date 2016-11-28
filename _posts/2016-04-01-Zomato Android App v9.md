@@ -29,7 +29,7 @@ You can read more about this change on <a href="https://engineering.zomato.com/r
 <h5> Here are some screens from this version- </h5>
 
 
-*New Home Page with a Bottom Navigation Bar*
+*New Home Page with a Bottom Navigation Bar*<br>
 <img src="{{site.url}}/img/v9/v9_home.jpg">
 <br>
 <br>
@@ -40,4 +40,4 @@ You can read more about this change on <a href="https://engineering.zomato.com/r
 <br>
 
 *User page with detailed 'Dineline'* <br>
-<img src="{{site.url}}/img/v9/v9_user_dineline.jpg"  height="1000" width="800">
+<img src="{{site.url}}/img/v9/v9_user_dineline.jpg" height="1000" width="800">

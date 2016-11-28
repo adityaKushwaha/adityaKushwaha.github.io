@@ -5,8 +5,8 @@
     <description>Experience in Mobile &amp; Product Development - Former Lead Android Developer at Zomato - Over 70 releases to the Google Play Store - Looking to build the next big thing!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Nov 2016 16:20:32 +0100</pubDate>
-    <lastBuildDate>Mon, 28 Nov 2016 16:20:32 +0100</lastBuildDate>
+    <pubDate>Mon, 28 Nov 2016 17:21:01 +0100</pubDate>
+    <lastBuildDate>Mon, 28 Nov 2016 17:21:01 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -32,7 +32,7 @@ You can read more about this change on &lt;a href=&quot;https://engineering.zoma
 
 &lt;h5&gt; Here are some screens from this version- &lt;/h5&gt;
 
-&lt;p&gt;&lt;em&gt;New Home Page with a Bottom Navigation Bar&lt;/em&gt;
+&lt;p&gt;&lt;em&gt;New Home Page with a Bottom Navigation Bar&lt;/em&gt;&lt;br /&gt;
 &lt;img src=&quot;http://localhost:4000/img/v9/v9_home.jpg&quot; /&gt;
 &lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
@@ -241,15 +241,16 @@ With time, we transitioned our users, scaled our systems and evolved to play wit
     
       <item>
         <title>Zomato Android App v3</title>
-        <description>&lt;p&gt;v3 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pharetra libero ut nibh porta mollis. Nam accumsan et ante tempor interdum.&lt;/p&gt;
+        <description>&lt;p&gt;We stepped up our efforts to make Zomato an immersive experience for users of both kind - consumers &amp;amp; creators. Our then five member mobile team won the “App of the year” award by NDTV, beating the likes of WhatsApp, TrueCaller and PayTm.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
-&lt;h5&gt; Major changes in this version included the following- &lt;/h5&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h5&gt; Major changes in this version included the following-&lt;/h5&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;First-use User Experience&lt;/b&gt; - On-boarding screens&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;User uploaded images&lt;/b&gt; - image filters, camera api, gallery&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;New Home Page&lt;/b&gt; - 
+  &lt;li&gt;&lt;b&gt;First-use User Experience&lt;/b&gt; - With the increased number of features in the app, we made use of On-boarding screens and first runs to simplify UX.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;User uploaded images&lt;/b&gt; - Using Android’s Camera API and NDK’s power, we made our very own in-app image uploading process, image filters and gallery views. We wrote our own thread for displaying the images in a gallery view inside the app keeping the limitations of Async threads in check.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;New Home Page&lt;/b&gt; - In a very significant change from the previous version, we split our single home page into a new page with four different tabs.
 &lt;br /&gt;
 &lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -283,27 +284,53 @@ With time, we transitioned our users, scaled our systems and evolved to play wit
     
       <item>
         <title>Zomato Android App v2</title>
-        <description>&lt;p&gt;Introducing the Social Food Network
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pharetra libero ut nibh porta mollis. Nam accumsan et ante tempor interdum.&lt;/p&gt;
+        <description>&lt;p&gt;Introducing the Social Food Network - Zomato’s existing app could only search and list restaurants around your location. We took it to the next level by introducing users, the ability to review and rate restaurants, follow other foodies and comment on their activity. This new social level transformed Zomato from a listings product to a Foodie Network!&lt;/p&gt;
 
 &lt;!--more--&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/sc_v2/best_of.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h5&gt; Major changes in this version included the following- &lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Building the app from scratch&lt;/b&gt; - The entire app was written from scratch to include the concept of registering users, interaction of users with other users and restaurants. Search listings now included the recommendations of the user’s network making it very relevant. Some of the things being done for the first time in this version included-
+    &lt;ul&gt;
+      &lt;li&gt;User Page with their network of foodies and lists of favorite restaurants.&lt;/li&gt;
+      &lt;li&gt;Restaurant Page with Photos, Menus and detailed information.&lt;/li&gt;
+      &lt;li&gt;Search listings with recommendations from one’s network&lt;/li&gt;
+      &lt;li&gt;City wise Leader-boards for Users and Restaurants.&lt;/li&gt;
+      &lt;li&gt;Ability to create content - Writing reviews, rating restaurants and uploading pictures.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Integration with other social networks&lt;/b&gt; - For any decent network effect to take place we integrated with Facebook, Google, Instagram and Twitter to help users quickly log in and find their foodie friends n Zomato.
 &lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5&gt; Here are some screens from this version- &lt;/h5&gt;
+
+&lt;p&gt;&lt;em&gt;Home Page&lt;/em&gt;&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/img/sc_v2/home.jpg&quot; height=&quot;1000&quot; width=&quot;800&quot; /&gt;
 &lt;br /&gt;
-&lt;img src=&quot;http://localhost:4000/img/sc_v2/create_content.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Search page &amp;amp; Restaurant page&lt;/em&gt;&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/img/sc_v2/search_res.jpg&quot; height=&quot;1000&quot; width=&quot;500&quot; /&gt;
 &lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;User could review and rate restaurants&lt;/em&gt;&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/img/sc_v2/create_content.jpg&quot; height=&quot;1000&quot; width=&quot;500&quot; /&gt;
 &lt;br /&gt;
-&lt;img src=&quot;http://localhost:4000/img/sc_v2/home.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;User &amp;amp; Restaurant Leader-boards&lt;/em&gt;&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/img/sc_v2/leaderboard.jpg&quot; height=&quot;1000&quot; width=&quot;500&quot; /&gt;
 &lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Login screen&lt;/em&gt;&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/img/sc_v2/login.jpg&quot; height=&quot;1000&quot; width=&quot;800&quot; /&gt;
 &lt;br /&gt;
-&lt;img src=&quot;http://localhost:4000/img/sc_v2/leaderboard.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;http://localhost:4000/img/sc_v2/login.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;http://localhost:4000/img/sc_v2/search_res.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;&lt;/p&gt;
+&lt;br /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 04 Oct 2012 00:00:00 +0200</pubDate>

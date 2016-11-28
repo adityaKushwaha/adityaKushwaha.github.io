@@ -4,7 +4,10 @@ title: "Zomato Android App v7"
 date:   2015-05-26
 categories: [Zomato]
 comments: true
+image:
+  feature: /sc_v7/material_home.jpg
 ---
+
 In the biggest ever move for us, we acquired UrbanSpoon! Our combined userbase grew four times and the number of cities of operation went from 250 to 10,000! 
 With time, we transitioned our users, scaled our systems and evolved to play with loads of data. 
 
