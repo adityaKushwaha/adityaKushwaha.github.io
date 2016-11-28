@@ -5,8 +5,8 @@
     <description>Experience in Mobile &amp; Product Development - Former Lead Android Developer at Zomato - Over 70 releases to the Google Play Store - Looking to build the next big thing!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Nov 2016 15:00:37 +0100</pubDate>
-    <lastBuildDate>Mon, 28 Nov 2016 15:00:37 +0100</lastBuildDate>
+    <pubDate>Mon, 28 Nov 2016 15:18:22 +0100</pubDate>
+    <lastBuildDate>Mon, 28 Nov 2016 15:18:22 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -241,18 +241,36 @@ With time, we transitioned our users, scaled our systems and evolved to play wit
     
       <item>
         <title>Zomato Android App v3</title>
-        <description>&lt;p&gt;v3 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pharetra libero ut nibh porta mollis. Nam accumsan et ante tempor interdum.&lt;/p&gt;
+        <description>&lt;p&gt;v3 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pharetra libero ut nibh porta mollis. Nam accumsan et ante tempor interdum.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/sc_v3/home.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;
+&lt;h5&gt; Major changes in this version included the following- &lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;First-use User Experience&lt;/b&gt; - On-boarding screens&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;User uploaded images&lt;/b&gt; - image filters, camera api, gallery&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;New Home Page&lt;/b&gt; - 
 &lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5&gt; Here are some screens from this version- &lt;/h5&gt;
+
+&lt;p&gt;&lt;em&gt;On-boarding screens&lt;/em&gt;&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/img/sc_v3/tour.jpg&quot; height=&quot;1000&quot; width=&quot;1000&quot; /&gt;
 &lt;br /&gt;
-&lt;img src=&quot;http://localhost:4000/img/sc_v3/photo_upload.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Screens showing the photo upload flow.&lt;/em&gt;&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/img/sc_v3/photo_upload.jpg&quot; height=&quot;1000&quot; width=&quot;800&quot; /&gt;
 &lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;New Splash screen and the Home page&lt;/em&gt;&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/img/sc_v3/home.jpg&quot; height=&quot;1000&quot; width=&quot;600&quot; /&gt;
 &lt;br /&gt;
-&lt;img src=&quot;http://localhost:4000/img/sc_v3/tour.jpg&quot; /&gt;&lt;!-- height=&quot;100&quot; width=&quot;100&quot;&gt;--&gt;&lt;/p&gt;
+&lt;br /&gt;&lt;/p&gt;
+
 </description>
         <pubDate>Thu, 21 Nov 2013 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/articles/Zomato-Android-App-v3</link>
