@@ -5,6 +5,8 @@ date:   2014-10-29
 categories: [Zomato]
 image:
   feature: /sc_v6/home_locales.jpg
+  width: 600
+  height: 1000
 ---
 
 After winning the markets in India and the UAE, we started expanding to more geographies. This led to an acquisition of the market leaders in Poland, Czech Republic, Slovakia, Italy and New Zealand. We welcomed the challenge of introducing Zomato's rich array of features with localized content while maintaining the familiarity of the old products - all this with one single apk file!

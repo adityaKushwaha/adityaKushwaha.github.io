@@ -4,7 +4,9 @@ title: "Zomato Android App v5"
 date:   2014-07-04
 categories: [Zomato]
 image:
-  feature: /sc_v5/rest.jpg
+  feature: /sc_v5/login.jpg
+  width: 600
+  height: 1000
 ---
 
 Users started to create lots of content on Zomato - reviews, photos and ratings. We used this surge of information created by the people to be used in beautiful endless scrolls of food feed to be used by other users. In true crowd-sourced fashion, we created a food guide that went beyond ratings and menus. It captured the moods of the commoners as well as the connoisseurs. 

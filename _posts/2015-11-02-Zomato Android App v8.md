@@ -6,6 +6,8 @@ categories: [Zomato]
 comments: true
 image:
   feature: /sc_v8/home.jpg
+  width: 550
+  height: 1000
 ---
 
 Our super fast development cycles and the convoluted nature of our product gave rise to the ideology of development kits. We thought of the entire product as a complex organism and then broke things down to atoms and molecules - and thus multiple development kits were born - we had an UI Kit, Network Kit, Online Ordering Kit, Image Handling kit...you get the idea.

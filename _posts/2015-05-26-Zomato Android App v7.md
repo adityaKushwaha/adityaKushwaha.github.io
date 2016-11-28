@@ -6,6 +6,8 @@ categories: [Zomato]
 comments: true
 image:
   feature: /sc_v7/material_home.jpg
+  width: 600
+  height: 1000
 ---
 
 In the biggest ever move for us, we acquired UrbanSpoon! Our combined userbase grew four times and the number of cities of operation went from 250 to 10,000! 

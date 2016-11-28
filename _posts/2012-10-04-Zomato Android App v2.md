@@ -5,6 +5,8 @@ date:   2012-10-04
 categories: [Zomato]
 image:
   feature: /sc_v2/home.jpg
+  width: 600
+  height: 1000
 ---
 
 Introducing the Social Food Network - Zomato's existing app could only search and list restaurants around your location. We took it to the next level by introducing users, the ability to review and rate restaurants, follow other foodies and comment on their activity. This new social level transformed Zomato from a listings product to a Foodie Network! 

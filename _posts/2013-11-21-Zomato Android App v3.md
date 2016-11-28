@@ -5,6 +5,8 @@ date:   2013-11-21
 categories: [Zomato]
 image:
   feature: /sc_v3/tour.jpg
+  width: 850
+  height: 1000
 ---
 
 We stepped up our efforts to make Zomato an immersive experience for users of both kind - consumers & creators. Our then five member mobile team won the "App of the year" award by NDTV, beating the likes of WhatsApp, TrueCaller and PayTm.

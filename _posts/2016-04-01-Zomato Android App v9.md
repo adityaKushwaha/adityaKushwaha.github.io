@@ -6,6 +6,8 @@ categories: [Zomato]
 comments: true
 image:
   feature: /v9.jpg
+  width: 700
+  height: 1000
 ---
 
 This version saw a major shift in how we handled our network and data. The underlying layers - network, transport and data were revisited for the first time since 2012, benchmarked against the industry standards and overhauled. <br>
