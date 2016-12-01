@@ -1,8 +1,9 @@
 
-This site was made using a Jekyll theme made by [Renyuan] (https://github.com/renyuanz)
+This static site was made using a Jekyll theme orignally made by [Renyuan](https://github.com/renyuanz).<br>
 Clone the repository [here](https://github.com/renyuanz/leonids) and get started!
 
-I have used it to make my Developer bio! Have a look at http://kushwaha.tech
+I have used it to make my Developer bio!<br>
+Have a look at http://kushwaha.tech
 
 -------------------------------------------------------------------------------------------
 
